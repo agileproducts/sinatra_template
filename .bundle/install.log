@@ -1,0 +1,15 @@
+# Logfile created on 2014-03-13 16:36:07 +0000 by logger.rb/41954
+I, [2014-03-13T16:36:07.678228 #7378]  INFO -- : 0:  backports (3.6.0) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353/specifications/backports-3.6.0.gemspec
+I, [2014-03-13T16:36:08.122783 #7378]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-13T16:36:08.516206 #7378]  INFO -- : 0:  multi_json (1.9.0) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.9.0.gemspec
+I, [2014-03-13T16:36:08.516565 #7378]  INFO -- : 0:  rack (1.5.2) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-03-13T16:36:08.516828 #7378]  INFO -- : 0:  rack-protection (1.5.2) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-13T16:36:08.517073 #7378]  INFO -- : 0:  rack-test (0.6.2) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-13T16:36:09.270716 #7378]  INFO -- : 0:  rspec-core (2.14.8) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-core-2.14.8.gemspec
+I, [2014-03-13T16:36:09.790708 #7378]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-03-13T16:36:10.334041 #7378]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-03-13T16:36:10.720748 #7378]  INFO -- : 0:  rspec (2.14.1) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-2.14.1.gemspec
+I, [2014-03-13T16:36:10.721037 #7378]  INFO -- : 0:  tilt (1.4.1) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-03-13T16:36:10.721266 #7378]  INFO -- : 0:  sinatra (1.4.4) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-13T16:36:10.721494 #7378]  INFO -- : 0:  sinatra-contrib (1.4.2) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-03-13T16:36:10.721710 #7378]  INFO -- : 0:  bundler (1.5.1) from /Users/stephencornelius/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec

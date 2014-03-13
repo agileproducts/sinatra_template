@@ -11,5 +11,5 @@ configure do
 end
 
 get '/' do
-  "Hello world!"
+  "Hello World!"
 end

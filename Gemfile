@@ -1,8 +1,8 @@
 source 'http://rubygems.org'
-ruby '1.9.3'
+ruby '2.0.0'
 
-gem 'sinatra', '>=1.3.0'
-gem 'sinatra-contrib', '>=1.2.7'
+gem 'sinatra'
+gem 'sinatra-contrib'
 
 group :development do
   gem 'rspec', '>=2.11'
